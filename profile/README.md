@@ -12,4 +12,4 @@ If you’re new here or feel unsure about where to start, you may find these res
 
 For those interested in contributing, please review the project blueprints first:
 
- [VisionX Blueprints](https://github.com/VissionX/Visiondocs/tree/main/blueprint)
+- [VisionX Blueprints](https://github.com/VissionX/Visiondocs/tree/main/blueprint)
