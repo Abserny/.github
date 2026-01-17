@@ -15,7 +15,7 @@
 ---
 
 > \[!IMPORTANT]
-> VisionX is currently Under Development. You could use a [Core](https://github.com/VissionX/VisionX)  version if you want to see what is going on.
+> Developed mainly as a graduation project, with an emphasis on learning and foundational work.
 
 For those interested in contributing, please review the project blueprints first:
 
