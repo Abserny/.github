@@ -9,7 +9,7 @@
 
 </div>
 
-![VisionX Banner](./assets/images/abserny.png)
+![VisionX Banner](./assets/images/absernyy.png)
 
 ---
 
