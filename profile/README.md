@@ -3,13 +3,13 @@
 # Object Detection for the Visually Impaired
 
 [![Mobile App](https://img.shields.io/badge/Mobile%20Version-Install-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://vissionx.github.io/VisionX.x/install.html)
-![GitHub Stars](https://img.shields.io/github/stars/vissionx?style=for-the-badge&logo=github&label=Total%20Stars&color=00262C)
+![GitHub Stars](https://img.shields.io/github/stars/abserny?style=for-the-badge&logo=github&label=Total%20Stars&color=00262C)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 
 
 </div>
 
-![VisionX Banner](./assets/images/vxbanner.png)
+![VisionX Banner](./assets/images/abserny.png)
 
 ---
 
