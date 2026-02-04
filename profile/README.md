@@ -9,7 +9,7 @@
 
 </div>
 
-![Abserny Banner](./assets/images/absernyy.png)
+![Abserny Banner](./assets/images/abserny-enhanced.png)
 
 ---
 
@@ -22,6 +22,7 @@ For those interested in contributing, please review the project blueprints first
 - [contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
 
 For more details you may see our website from here →  [Abserny](http://abserny.github.io/abserny.com/)
+
 
 
 
