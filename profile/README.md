@@ -13,16 +13,22 @@
 
 ---
 
-> \[!IMPORTANT]
-> Developed mainly as a graduation project, with an emphasis on learning and foundational work.
+We truly appreciate any kind of support, not necessarily financial. For example, if someone wants to help improve our logo or banner, or if someone has stronger knowledge in machine learning and computer vision and can help us improve both our code and our understanding in these areas, we would be very happy to welcome their contribution.
 
 For those interested in contributing, please review the project blueprints first:
 
 - [References & Sources](https://github.com/VissionX/Visiondocs)
 - [contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
 
-For more details you may see our website from here →  [Abserny](http://abserny.github.io/abserny.com/)
+Comunications :
+- Email : alsaeedalbasi0ny@gmail.com
 
+---
 
+<div align="center">
 
+<i>Developed mainly as a Graduation project</i>
 
+<a href="https://abserny.github.io/abserny.com/">Main Website</a> | <a href="https://abserny.github.io/abserny.org/">Documentation</a>
+
+</div>
