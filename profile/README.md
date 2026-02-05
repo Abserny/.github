@@ -20,7 +20,13 @@ For those interested in contributing, please review the project blueprints first
 - [References & Sources](https://github.com/VissionX/Visiondocs)
 - [contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
 
-Comunications :
+Contributing Sugestion [Rules]() & [Why?](): 
+
+- Graphic Designer *(To **Enhancec** project logo and banner)*
+- Someone who has knoledge about **jekyll** *(To keep track and **document** our Progression)*
+- Someone who has Github Fundamentals *(To **Optimeze** and lead Commits and stuff)*
+
+Communications :
 - Email : alsaeedalbasi0ny@gmail.com
 
 ---
@@ -32,3 +38,4 @@ Comunications :
 <a href="https://abserny.github.io/abserny.com/">Main Website</a> | <a href="https://abserny.github.io/abserny.org/">Documentation</a>
 
 </div>
+
