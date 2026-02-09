@@ -20,7 +20,7 @@ For those interested in contributing, please review the project blueprints first
 - [References & Sources](https://github.com/VissionX/Visiondocs)
 - [contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
 
-Contribution [Roles]() & [Why?]() : 
+Contribution [Roles]() & [Why?]() :
 
 - Graphic Designer *(To **Enhancec** project logo and banner)*
 - Someone who has knoledge about **jekyll** *(To keep track and **document** our Progression)*
@@ -33,7 +33,7 @@ Communications :
 
 <div align="center">
 
-<i>Developed mainly as a Graduation project</i>
+<i>- Developed mainly as a Graduation project -</i>
 
 <a href="https://abserny.github.io/abserny.com/">Main Website</a> | <a href="https://abserny.github.io/abserny.org/">Documentation</a>
 
