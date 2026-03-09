@@ -1,6 +1,6 @@
 <div align="center">
 
-# Object Detection for the Visually Impaired
+# Voice-Activated Vision Assistant for the Visually Impaired
 
 [![Mobile App](https://img.shields.io/badge/Mobile%20Version-Install-10182C?style=for-the-badge&logo=android&logoColor=white)](https://abserny.github.io/abserny.com/install.html)
 ![GitHub Stars](https://img.shields.io/github/stars/abserny?style=for-the-badge&logo=github&label=Total%20Stars&color=10182C)
@@ -22,9 +22,9 @@ For those interested in contributing, please review the project blueprints first
 
 Contribution Roles & Why? :
 
-- Graphic Designer *(To **Enhancec** project logo and banner)*
+- Graphic Designer *(To **Enhance** project logo and banner)*
 - Someone who has knowledge about **jekyll** *(To keep track and **document** our Progression)*
-- Someone who has Github Fundamentals *(To **Optimeze** and lead Commits and stuff)*
+- Someone who has Github Fundamentals *(To **Optimize** and lead Commits and stuff)*
 
 Communications :
 - Email : alsaeedalbasi0ny@gmail.com
