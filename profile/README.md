@@ -20,10 +20,10 @@ For those interested in contributing, please review the project blueprints first
 - [References & Sources](https://github.com/VissionX/Visiondocs)
 - [contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
 
-Contribution [Roles]() & [Why?]() :
+Contribution Roles & Why? :
 
 - Graphic Designer *(To **Enhancec** project logo and banner)*
-- Someone who has knoledge about **jekyll** *(To keep track and **document** our Progression)*
+- Someone who has knowledge about **jekyll** *(To keep track and **document** our Progression)*
 - Someone who has Github Fundamentals *(To **Optimeze** and lead Commits and stuff)*
 
 Communications :
