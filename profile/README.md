@@ -2,7 +2,7 @@
 
 # Voice-Activated Vision Assistant for the Visually Impaired
 
-[![Mobile App](https://img.shields.io/badge/Mobile%20Version-Install-10182C?style=for-the-badge&logo=android&logoColor=white)](https://abserny.github.io/abserny.com/install.html)
+[![Mobile App](https://img.shields.io/badge/Mobile%20Version-Install-10182C?style=for-the-badge&logo=android&logoColor=white)](https://abserny.github.io/install.html)
 ![GitHub Stars](https://img.shields.io/github/stars/abserny?style=for-the-badge&logo=github&label=Total%20Stars&color=10182C)
 ![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
 
