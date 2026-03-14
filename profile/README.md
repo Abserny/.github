@@ -35,7 +35,7 @@ Communications :
 
 <i>- Developed mainly as a Graduation project -</i>
 
-<a href="https://abserny.github.io/abserny.com/">Main Website</a> | <a href="https://abserny.github.io/abserny.org/">Documentation</a>
+<a href="https://abserny.github.io/">Main Website</a> | <a href="https://abserny.github.io/abserny.org/">Documentation</a>
 
 </div>
 
