@@ -36,7 +36,7 @@ Contribution Roles & Why? :
 
 ### Explore the Full Vision
 
-This book contains a complete breakdown of the **Abserny Project** — from idea to implementation.
+This book contains a complete breakdown of the **Abserny Project** - from idea to implementation.
 
 - System Architecture
 - AI & Object Detection Pipeline
