@@ -26,6 +26,43 @@ Contribution Roles & Why? :
 - Someone who has knowledge about **jekyll** *(To keep track and **document** our Progression)*
 - Someone who has Github Fundamentals *(To **Optimize** and lead Commits and stuff)*
 
+## Graduation Book Announced
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="left">
+
+### Explore the Full Vision
+
+This book contains a complete breakdown of the **Abserny Project** — from idea to implementation.
+
+- System Architecture
+- AI & Object Detection Pipeline
+- Design Decisions & Philosophy
+- Future Vision & Expansion
+
+Built to reflect not just *what we built*, but *how we think*.
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Read%20Documentation-10182C?style=for-the-badge&logo=book&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="./assets/images/book-mockup.png" width="250"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
 Communications :
 - Email : alsaeedalbasi0ny@gmail.com
 
