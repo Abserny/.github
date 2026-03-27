@@ -80,8 +80,6 @@ If you know something we don't, open an issue or reach out.
 
 [Website](https://abserny.github.io/) · [Documentation](https://abserny.github.io/abserny.org/) · [Install](https://abserny.github.io/install.html)
 
-<br>
-
 *Accessibility tooling. Ongoing.*
 
 </div>
