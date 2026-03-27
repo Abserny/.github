@@ -2,77 +2,86 @@
 
 # Voice-Activated Vision Assistant for the Visually Impaired
 
-[![Mobile App](https://img.shields.io/badge/Mobile%20Version-Install-10182C?style=for-the-badge&logo=android&logoColor=white)](https://abserny.github.io/install.html)
-![GitHub Stars](https://img.shields.io/github/stars/abserny?style=for-the-badge&logo=github&label=Total%20Stars&color=10182C)
-![YOLO](https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white)
-
-
-</div>
-
-![Abserny Banner](./assets/images/abserny-enhanced.png)
-
----
-
-We truly appreciate any kind of support, not necessarily financial. For example, if someone wants to help improve our logo or banner, or if someone has stronger knowledge in machine learning and computer vision and can help us improve both our code and our understanding in these areas, we would be very happy to welcome their contribution.
-
-For those interested in contributing, please review the project blueprints first:
-
-- [References & Sources](https://github.com/VissionX/Visiondocs)
-- [contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
-
-Contribution Roles & Why? :
-
-- Graphic Designer *(To **Enhance** project logo and banner)*
-- Someone who has knowledge about **jekyll** *(To keep track and **document** our Progression)*
-- Someone who has Github Fundamentals *(To **Optimize** and lead Commits and stuff)*
-
-## Graduation Book Announced
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="left">
-
-### Explore the Full Vision
-
-This book contains a complete breakdown of the **Abserny Project** - from idea to implementation.
-
-- System Architecture
-- AI & Object Detection Pipeline
-- Design Decisions & Philosophy
-- Future Vision & Expansion
-
-Built to reflect not just *what we built*, but *how we think*.
+<img src="./assets/images/abserny-enhanced.png" width="100%" alt="Abserny" />
 
 <br>
 
-<a href="#">
-  <img src="https://img.shields.io/badge/Read%20Documentation-10182C?style=for-the-badge&logo=book&logoColor=white"/>
-</a>
+[![Mobile App](https://img.shields.io/badge/Mobile%20App-0F1112?style=for-the-badge&logo=android&logoColor=00BFFF)](https://abserny.github.io/install.html)
+[![Website](https://img.shields.io/badge/Website-0F1112?style=for-the-badge&logo=safari&logoColor=00E5A0)](https://abserny.github.io/)
+[![Documentation](https://img.shields.io/badge/Documentation-0F1112?style=for-the-badge&logo=gitbook&logoColor=FFB020)](https://abserny.github.io/abserny.org/)
+[![Stars](https://img.shields.io/github/stars/abserny?style=for-the-badge&logo=github&label=Total%20Stars&color=0F1112)](https://github.com/abserny)
+
+</div>
+
+---
+
+Most software assumes you can see it. We build around the opposite assumption.
+
+Our tools are controlled entirely by gesture and voice. No visual UI required. The camera sees. The app speaks. The user acts.
+
+Current focus areas across our projects:
+
+- **Real-time scene description** - AI describes what the camera sees, spoken aloud
+- **Hazard detection** - steps, vehicles, obstacles, people in the path
+- **Text recognition** - reads visible text in frame, in any language
+- **Continuous awareness** - speaks only when something meaningful changes
+- **Bilingual** - Arabic and English as first-class languages, not afterthoughts
+
+## Graduation Book Announced
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+This book documents everything behind the project that started this organization, **Abserny Mobile**, the voice-activated vision assistant built for the visually impaired.
+
+It covers the full story from concept to implementation:
+
+- System architecture and design decisions
+- AI pipeline, object detection, and offline inference
+- Accessibility-first design philosophy
+- Arabic language support and TTS engineering
+- Future direction and what comes next
+
+Built to reflect not just what we built, but how we think.
+
+<br>
+
+[![Read the Book](https://img.shields.io/badge/Read%20the%20Book%20(PDF)-0F1112?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF4455)](https://abserny.github.io/abserny.org/)
 
 </td>
+<td width="45%" align="center" valign="middle">
 
-<td width="50%" align="center">
-
-<img src="./assets/images/book-mockup.png" width="250"/>
+<img src="./assets/images/book-mockup.png" width="220" alt="Graduation Book" />
 
 </td>
 </tr>
 </table>
 
-</div>
+## Contribute
 
-Communications :
-- Email : alsaeedalbasi0ny@gmail.com
+We are a small team and we are open to people who want to build something real.
+
+What we are actively looking for:
+
+- **Graphic Designer** - logo and visual identity need work
+- **ML / Computer Vision** - improve the detection and inference pipeline
+- **Jekyll** - maintain and expand the documentation site
+- **GitHub** - branching, versioning, and release management
+
+If you know something we don't, open an issue or reach out.
+
+- [References & Sources](https://github.com/VissionX/Visiondocs)
+- [Contributing Guide](https://github.com/VissionX/Visiondocs/blob/main/ContributingGuide.md)
 
 ---
 
 <div align="center">
 
-<i>- Developed mainly as a Graduation project -</i>
+[Website](https://abserny.github.io/) · [Documentation](https://abserny.github.io/abserny.org/) · [Install](https://abserny.github.io/install.html)
 
-<a href="https://abserny.github.io/">Main Website</a> | <a href="https://abserny.github.io/abserny.org/">Documentation</a>
+<br>
+
+*Accessibility tooling. Ongoing.*
 
 </div>
-
